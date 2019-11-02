@@ -1,0 +1,82 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 3,
+        "name": "Search Properties Scenario",
+        "description": "",
+        "id": "search-properties-feature;search-properties-scenario",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 16993555101,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user opens url",
+            "match": {
+              "location": "ZCucumberSteps.user_opens_url()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 2784503599,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user inputs location and click submit",
+            "match": {
+              "location": "ZCucumberSteps.user_inputs_location_and_click_submit()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 1372480001,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "print price values in descending order",
+            "match": {
+              "location": "ZCucumberSteps.print_price_values_in_descending_order()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 1292662000,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "user select fifth property",
+            "match": {
+              "location": "ZCucumberSteps.user_select_fifth_property()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 2469486200,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "click link to agent page",
+            "match": {
+              "location": "ZCucumberSteps.click_link_to_agent_page()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Search Properties Feature",
+    "description": "",
+    "id": "search-properties-feature",
+    "keyword": "Feature",
+    "uri": "C:/Users/indeztruk/eclipse-workspace/SeleniumChallengeCucumber1/src/main/java/com/sel/cum/features/zoopla.feature"
+  }
+]

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="24.912687">
+<testcase classname="Search Properties Feature" name="Search Properties Scenario" time="24.912687">
+<system-out><![CDATA[Given user opens url........................................................passed
+Then user inputs location and click submit..................................passed
+Then print price values in descending order.................................passed
+Then user select fifth property.............................................passed
+Then click link to agent page...............................................passed
+]]></system-out>
+</testcase>
+</testsuite>
